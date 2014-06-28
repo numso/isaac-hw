@@ -1,0 +1,223 @@
+Bootstrap started
+Looking for update
+Downloading: https://s3.amazonaws.com/Minecraft.Download/launcher/launcher.pack.lzma
+Got reply in: 449ms
+No update found.
+Reversing LZMA on /Users/dallinosmun/Library/Application Support/minecraft/launcher.pack.lzma to /Users/dallinosmun/Library/Application Support/minecraft/launcher.pack
+Unpacking /Users/dallinosmun/Library/Application Support/minecraft/launcher.pack to /Users/dallinosmun/Library/Application Support/minecraft/launcher.jar
+Cleaning up /Users/dallinosmun/Library/Application Support/minecraft/launcher.pack
+Starting launcher.
+[10:57:28 INFO]: Minecraft Launcher 1.4.4 (through bootstrap 4) started on osx...
+[10:57:28 INFO]: Current time is Jun 28, 2014 10:57:28 AM
+[10:57:28 INFO]: System.getProperty('os.name') == 'Mac OS X'
+[10:57:28 INFO]: System.getProperty('os.version') == '10.9.3'
+[10:57:28 INFO]: System.getProperty('os.arch') == 'x86_64'
+[10:57:28 INFO]: System.getProperty('java.version') == '1.7.0_40'
+[10:57:28 INFO]: System.getProperty('java.vendor') == 'Oracle Corporation'
+[10:57:28 INFO]: System.getProperty('sun.arch.data.model') == '64'
+[10:57:28 INFO]: JFX has been detected & successfully loaded
+[10:57:28 INFO]: Refreshing local version list...
+[10:57:28 INFO]: Refreshing remote version list...
+[10:57:29 INFO]: Refresh complete.
+2014-06-28 10:57:29.580 java[11092:230b] CoreText performance note: Client called CTFontCreateWithName() using name "Helvetica Neue Bold" and got font with PostScript name "HelveticaNeue-Bold". For best performance, only use PostScript names when calling this API.
+2014-06-28 10:57:29.580 java[11092:230b] CoreText performance note: Set a breakpoint on CTFontLogSuboptimalRequest to debug.
+2014-06-28 10:57:29.594 java[11092:230b] CoreText performance note: Client called CTFontCreateWithName() using name "Helvetica Neue Condensed Bold" and got font with PostScript name "HelveticaNeue-CondensedBold". For best performance, only use PostScript names when calling this API.
+2014-06-28 10:57:29.597 java[11092:230b] CoreText performance note: Client called CTFontCreateWithName() using name "Helvetica Neue Condensed Black" and got font with PostScript name "HelveticaNeue-CondensedBlack". For best performance, only use PostScript names when calling this API.
+2014-06-28 10:57:29.764 java[11092:230b] CoreText performance note: Client called CTFontCreateWithName() using name "Helvetica Neue" and got font with PostScript name "HelveticaNeue". For best performance, only use PostScript names when calling this API.
+2014-06-28 10:57:29.768 java[11092:230b] CoreText performance note: Client called CTFontCreateWithName() using name "Helvetica Neue Medium" and got font with PostScript name "HelveticaNeue-Medium". For best performance, only use PostScript names when calling this API.
+2014-06-28 10:57:29.772 java[11092:230b] CoreText performance note: Client called CTFontCreateWithName() using name "Helvetica Neue Light" and got font with PostScript name "HelveticaNeue-Light". For best performance, only use PostScript names when calling this API.
+2014-06-28 10:57:29.776 java[11092:230b] CoreText performance note: Client called CTFontCreateWithName() using name "Helvetica Neue Thin" and got font with PostScript name "HelveticaNeue-Thin". For best performance, only use PostScript names when calling this API.
+2014-06-28 10:57:29.781 java[11092:230b] CoreText performance note: Client called CTFontCreateWithName() using name "Helvetica Neue UltraLight" and got font with PostScript name "HelveticaNeue-UltraLight". For best performance, only use PostScript names when calling this API.
+[10:57:29 INFO]: Loaded 5 profile(s); selected 'Snapshots'
+[10:57:29 INFO]: Refreshing auth...
+[10:57:29 INFO]: Logging in with access token
+[10:57:34 INFO]: Getting syncinfo for selected version
+[10:57:34 INFO]: Queueing library & version downloads
+[10:57:35 INFO]: Installed CompleteVersion{id='14w26c', updatedTime=Thu Jun 26 09:05:03 MDT 2014, releasedTime=Thu Jun 26 09:05:03 MDT 2014, type=SNAPSHOT, libraries=[Library{name='java3d:vecmath:1.5.2', rules=null, natives=null, extract=null}, Library{name='net.sf.trove4j:trove4j:3.0.3', rules=null, natives=null, extract=null}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null}, Library{name='net.sf.jopt-simple:jopt-simple:4.6', rules=null, natives=null, extract=null}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null}, Library{name='io.netty:netty-all:4.0.15.Final', rules=null, natives=null, extract=null}, Library{name='com.google.guava:guava:16.0', rules=null, natives=null, extract=null}, Library{name='org.apache.commons:commons-lang3:3.2.1', rules=null, natives=null, extract=null}, Library{name='commons-io:commons-io:2.4', rules=null, natives=null, extract=null}, Library{name='commons-codec:commons-codec:1.9', rules=null, natives=null, extract=null}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null}, Library{name='com.google.code.gson:gson:2.2.4', rules=null, natives=null, extract=null}, Library{name='com.mojang:authlib:1.5.13', rules=null, natives=null, extract=null}, Library{name='org.apache.logging.log4j:log4j-api:2.0-beta9', rules=null, natives=null, extract=null}, Library{name='org.apache.logging.log4j:log4j-core:2.0-beta9', rules=null, natives=null, extract=null}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.1', rules=null, natives=null, extract=null}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.1', rules=null, natives=null, extract=null}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.1', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows, OSX=natives-osx}, extract=com.mojang.launcher.versions.ExtractRules@62313e2}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows, OSX=natives-osx}, extract=com.mojang.launcher.versions.ExtractRules@68ee5d93}, Library{name='tv.twitch:twitch:6.5', rules=null, natives=null, extract=null}, Library{name='tv.twitch:twitch-platform:6.5', rules=[Rule{action=ALLOW, os=null}, Rule{action=DISALLOW, os=OSRestriction{name=LINUX, version='null'}}], natives={LINUX=natives-linux, WINDOWS=natives-windows-${arch}, OSX=natives-osx}, extract=com.mojang.launcher.versions.ExtractRules@794193b6}, Library{name='tv.twitch:twitch-external-platform:4.5', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}}], natives={WINDOWS=natives-windows-${arch}}, extract=com.mojang.launcher.versions.ExtractRules@4048cfeb}], mainClass='net.minecraft.client.main.Main', minimumLauncherVersion=14}
+[10:57:35 INFO]: Download job 'Version & Libraries' started (16 threads, 27 files)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-osx.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/tv/twitch/twitch/6.5/twitch-6.5.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar for job 'Version & Libraries'... (try 0)
+[10:57:35 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Download job 'Resources' skipped as there are no files to download
+[10:57:36 INFO]: Job 'Resources' finished successfully (took 0:00:00.000)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/google/guava/guava/16.0/guava-16.0.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/mojang/authlib/1.5.13/authlib-1.5.13.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/tv/twitch/twitch-platform/6.5/twitch-platform-6.5-natives-osx.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/tv/twitch/twitch/6.5/twitch-6.5.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/versions/14w26c/14w26c.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Attempting to download /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar for job 'Version & Libraries'... (try 0)
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/mojang/authlib/1.5.13/authlib-1.5.13.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:36 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/libraries/com/google/guava/guava/16.0/guava-16.0.jar for job 'Version & Libraries': Local file matches local checksum, using that
+[10:57:44 INFO]: Finished downloading /Users/dallinosmun/Library/Application Support/minecraft/versions/14w26c/14w26c.jar for job 'Version & Libraries': Downloaded successfully and etag matched
+[10:57:44 INFO]: Job 'Version & Libraries' finished successfully (took 0:00:08.713)
+[10:57:44 INFO]: Launching game
+[10:57:44 INFO]: Unpacking natives to /Users/dallinosmun/Library/Application Support/minecraft/versions/14w26c/14w26c-natives-1403974664407125000
+[10:57:44 INFO]: Launching in /Users/dallinosmun/Library/Application Support/minecraft
+[10:57:44 INFO]: Half command: /Library/Java/JavaVirtualMachines/jdk1.7.0_40.jdk/Contents/Home/jre/bin/java -Xdock:icon=/Users/dallinosmun/Library/Application Support/minecraft/assets/objects/99/991b421dfd401f115241601b2b373140a8d78572 -Xdock:name=Minecraft -Xmx1G -Djava.library.path=/Users/dallinosmun/Library/Application Support/minecraft/versions/14w26c/14w26c-natives-1403974664407125000 -cp /Users/dallinosmun/Library/Application Support/minecraft/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/google/guava/guava/16.0/guava-16.0.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/com/mojang/authlib/1.5.13/authlib-1.5.13.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar:/Users/dallinosmun/Library/Application Support/minecraft/libraries/tv/twitch/twitch/6.5/twitch-6.5.jar:/Users/dallinosmun/Library/Application Support/minecraft/versions/14w26c/14w26c.jar net.minecraft.client.main.Main
+[10:57:44 INFO]: Looking for orphaned versions to clean up...
+[10:57:44 INFO]: Deleting orphaned version 14w25b because it's a snapshot available on remote
+[10:57:44 INFO]: Uninstalled CompleteVersion{id='14w25b', updatedTime=Thu Jun 19 06:29:48 MDT 2014, releasedTime=Thu Jun 19 06:29:48 MDT 2014, type=SNAPSHOT, libraries=[Library{name='java3d:vecmath:1.5.2', rules=null, natives=null, extract=null}, Library{name='net.sf.trove4j:trove4j:3.0.3', rules=null, natives=null, extract=null}, Library{name='com.ibm.icu:icu4j-core-mojang:51.2', rules=null, natives=null, extract=null}, Library{name='net.sf.jopt-simple:jopt-simple:4.6', rules=null, natives=null, extract=null}, Library{name='com.paulscode:codecjorbis:20101023', rules=null, natives=null, extract=null}, Library{name='com.paulscode:codecwav:20101023', rules=null, natives=null, extract=null}, Library{name='com.paulscode:libraryjavasound:20101123', rules=null, natives=null, extract=null}, Library{name='com.paulscode:librarylwjglopenal:20100824', rules=null, natives=null, extract=null}, Library{name='com.paulscode:soundsystem:20120107', rules=null, natives=null, extract=null}, Library{name='io.netty:netty-all:4.0.15.Final', rules=null, natives=null, extract=null}, Library{name='com.google.guava:guava:16.0', rules=null, natives=null, extract=null}, Library{name='org.apache.commons:commons-lang3:3.2.1', rules=null, natives=null, extract=null}, Library{name='commons-io:commons-io:2.4', rules=null, natives=null, extract=null}, Library{name='commons-codec:commons-codec:1.9', rules=null, natives=null, extract=null}, Library{name='net.java.jinput:jinput:2.0.5', rules=null, natives=null, extract=null}, Library{name='net.java.jutils:jutils:1.0.0', rules=null, natives=null, extract=null}, Library{name='com.google.code.gson:gson:2.2.4', rules=null, natives=null, extract=null}, Library{name='com.mojang:authlib:1.5.13', rules=null, natives=null, extract=null}, Library{name='org.apache.logging.log4j:log4j-api:2.0-beta9', rules=null, natives=null, extract=null}, Library{name='org.apache.logging.log4j:log4j-core:2.0-beta9', rules=null, natives=null, extract=null}, Library{name='org.lwjgl.lwjgl:lwjgl:2.9.1', rules=null, natives=null, extract=null}, Library{name='org.lwjgl.lwjgl:lwjgl_util:2.9.1', rules=null, natives=null, extract=null}, Library{name='org.lwjgl.lwjgl:lwjgl-platform:2.9.1', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows, OSX=natives-osx}, extract=com.mojang.launcher.versions.ExtractRules@277088f5}, Library{name='net.java.jinput:jinput-platform:2.0.5', rules=null, natives={LINUX=natives-linux, WINDOWS=natives-windows, OSX=natives-osx}, extract=com.mojang.launcher.versions.ExtractRules@4d2fa10d}, Library{name='tv.twitch:twitch:6.5', rules=null, natives=null, extract=null}, Library{name='tv.twitch:twitch-platform:6.5', rules=[Rule{action=ALLOW, os=null}, Rule{action=DISALLOW, os=OSRestriction{name=LINUX, version='null'}}], natives={LINUX=natives-linux, WINDOWS=natives-windows-${arch}, OSX=natives-osx}, extract=com.mojang.launcher.versions.ExtractRules@71f68411}, Library{name='tv.twitch:twitch-external-platform:4.5', rules=[Rule{action=ALLOW, os=OSRestriction{name=WINDOWS, version='null'}}], natives={WINDOWS=natives-windows-${arch}}, extract=com.mojang.launcher.versions.ExtractRules@6f58b28a}], mainClass='net.minecraft.client.main.Main', minimumLauncherVersion=14}
+[10:57:44 FATAL]: Fatal error launching game. Report this to http://bugs.mojang.com please!
+java.io.FileNotFoundException: File '/Users/dallinosmun/Library/Application Support/minecraft/assets/indexes/legacy.json' does not exist
+  at org.apache.commons.io.FileUtils.openInputStream(FileUtils.java:299) ~[launcher.jar:?]
+  at org.apache.commons.io.FileUtils.readFileToString(FileUtils.java:1711) ~[launcher.jar:?]
+  at net.minecraft.launcher.Launcher.cleanupOrphanedAssets(Launcher.java:186) ~[launcher.jar:?]
+  at net.minecraft.launcher.Launcher.performCleanups(Launcher.java:421) ~[launcher.jar:?]
+  at net.minecraft.launcher.game.MinecraftGameRunner.launchGame(MinecraftGameRunner.java:217) ~[launcher.jar:?]
+  at com.mojang.launcher.game.runner.AbstractGameRunner.onDownloadJobFinished(AbstractGameRunner.java:177) [launcher.jar:?]
+  at com.mojang.launcher.updater.download.DownloadJob.popAndDownload(DownloadJob.java:122) [launcher.jar:?]
+  at com.mojang.launcher.updater.download.DownloadJob.access$000(DownloadJob.java:12) [launcher.jar:?]
+  at com.mojang.launcher.updater.download.DownloadJob$1.run(DownloadJob.java:86) [launcher.jar:?]
+  at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_40]
+  at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_40]
+  at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [?:1.7.0_40]
+  at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [?:1.7.0_40]
+  at java.lang.Thread.run(Thread.java:724) [?:1.7.0_40]
+[10:57:45 INFO]: Client> [10:57:45] [Client thread/INFO]: Setting user: Dilnut
+[10:57:45 INFO]: Client> [10:57:45] [Client thread/INFO]: (Session ID is token:cc09073466ca480eb86d645939dee8b3:b991732bc3f34298b64946b597d37f80)
+[10:57:46 INFO]: Client> [10:57:46] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:57:46 INFO]: Client> [10:57:46] [Client thread/INFO]: Reloading ResourceManager: Default
+[10:57:47 INFO]: Client>
+[10:57:47 INFO]: Client> Starting up SoundSystem...
+[10:57:47 INFO]: Client> Initializing LWJGL OpenAL
+[10:57:47 INFO]: Client>     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:57:47 INFO]: Client> OpenAL initialized.
+[10:57:47 INFO]: Client>
+[10:57:47 INFO]: Client> [10:57:47] [Sound Library Loader/INFO]: Sound engine started
+[10:57:48 INFO]: Client> [10:57:48] [Client thread/INFO]: Created: 512x512 textures-atlas
+[10:57:50 INFO]: Client> [10:57:50] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[10:57:50 INFO]: Client> csf:
+[10:57:50 INFO]: Client>  at crk.a(SourceFile:251) ~[14w26c.jar:?]
+[10:57:50 INFO]: Client>  at crk.b(SourceFile:86) ~[14w26c.jar:?]
+[10:57:50 INFO]: Client>  at bqd.run(SourceFile:207) [14w26c.jar:?]
+[10:58:05 INFO]: Client> [10:58:05] [Server thread/INFO]: Starting integrated minecraft server version 14w26c
+[10:58:05 INFO]: Client> [10:58:05] [Server thread/INFO]: Generating keypair
+[10:58:06 INFO]: Client> [10:58:06] [Server thread/INFO]: Converting map!
+[10:58:06 INFO]: Client> [10:58:06] [Server thread/INFO]: Scanning folders...
+[10:58:06 INFO]: Client> [10:58:06] [Server thread/INFO]: Total conversion count is 0
+[10:58:06 INFO]: Client> [10:58:06] [Server thread/WARN]: Unable to find spawn biome
+[10:58:06 INFO]: Client> [10:58:06] [Server thread/INFO]: Preparing start region for level 0
+[10:58:07 INFO]: Client> [10:58:07] [Server thread/INFO]: Preparing spawn area: 7%
+[10:58:08 INFO]: Client> [10:58:08] [Server thread/INFO]: Preparing spawn area: 18%
+[10:58:09 INFO]: Client> [10:58:09] [Server thread/INFO]: Preparing spawn area: 31%
+[10:58:10 INFO]: Client> [10:58:10] [Server thread/INFO]: Preparing spawn area: 44%
+[10:58:11 INFO]: Client> [10:58:11] [Server thread/INFO]: Preparing spawn area: 58%
+[10:58:12 INFO]: Client> [10:58:12] [Server thread/INFO]: Preparing spawn area: 68%
+[10:58:13 INFO]: Client> [10:58:13] [Server thread/INFO]: Preparing spawn area: 81%
+[10:58:14 INFO]: Client> [10:58:14] [Server thread/INFO]: Preparing spawn area: 93%
+[10:58:15 INFO]: Client> [10:58:15] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:58:15 INFO]: Client> [10:58:15] [Server thread/INFO]: Dilnut[local:E:818cbb2b] logged in with entity id 238 at (-2.5, 72.0, 2.5)
+[10:58:15 INFO]: Client> [10:58:15] [Server thread/INFO]: Dilnut joined the game
+[10:58:20 INFO]: Client> [10:58:20] [Server thread/INFO]: Saving and pausing game...
+[10:58:20 INFO]: Client> [10:58:20] [Server thread/INFO]: Saving chunks for level 'New Worldaoeuaoeuaoeua'/Overworld
+[10:58:22 INFO]: Client> [10:58:22] [Client thread/INFO]: Started on 56621
+[10:58:22 INFO]: Client> [10:58:22] [Client thread/INFO]: [CHAT] Local game hosted on port 56621
+[10:58:22 INFO]: Client> [10:58:22] [Server thread/INFO]: Saving chunks for level 'New Worldaoeuaoeuaoeua'/Nether
+[10:58:22 INFO]: Client> [10:58:22] [Server thread/INFO]: Saving chunks for level 'New Worldaoeuaoeuaoeua'/The End
+[10:58:23 INFO]: Client> [10:58:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6596ms behind, skipping 131 tick(s)
+[10:58:29 INFO]: Client> [10:58:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 204 ms
+[10:58:31 INFO]: Client> [10:58:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 197 ms
+[10:58:31 INFO]: Client> [10:58:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
+[10:58:33 INFO]: Client> [10:58:33] [Client thread/INFO]: Warning: Clientside chunk ticking took 1857 ms
+[10:58:36 INFO]: Client> [10:58:36] [Client thread/INFO]: Warning: Clientside chunk ticking took 1741 ms
+[10:58:37 INFO]: Client> [10:58:37] [Client thread/INFO]: Warning: Clientside chunk ticking took 117 ms
+[10:58:37 INFO]: Client> [10:58:37] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[10:58:39 INFO]: Client> [10:58:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6663ms behind, skipping 133 tick(s)
+[10:58:53 INFO]: Client> [10:58:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3507ms behind, skipping 70 tick(s)
+[10:59:00 INFO]: Client> [10:59:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 462 ms
+[10:59:08 INFO]: Client> [10:59:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2693ms behind, skipping 53 tick(s)
+[10:59:20 INFO]: Client> [10:59:20] [Server thread/INFO]: Changing view distance to 9, from 12
+[10:59:22 INFO]: Client> [10:59:22] [Server thread/INFO]: Changing view distance to 8, from 9
+[10:59:27 INFO]: Client> [10:59:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 242 ms
+[10:59:27 INFO]: Client> [10:59:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 245 ms
+[10:59:27 INFO]: Client> [10:59:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 242 ms
+[10:59:27 INFO]: Client> [10:59:27] [Client thread/INFO]: Warning: Clientside chunk ticking took 224 ms
+[10:59:28 INFO]: Client> [10:59:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 226 ms
+[10:59:28 INFO]: Client> [10:59:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 218 ms
+[10:59:28 INFO]: Client> [10:59:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 223 ms
+[10:59:28 INFO]: Client> [10:59:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 220 ms
+[10:59:29 INFO]: Client> [10:59:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 227 ms
+[10:59:29 INFO]: Client> [10:59:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 221 ms
+[10:59:29 INFO]: Client> [10:59:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 220 ms
+[10:59:29 INFO]: Client> [10:59:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 224 ms
+[10:59:30 INFO]: Client> [10:59:30] [Client thread/INFO]: Warning: Clientside chunk ticking took 222 ms
+[10:59:30 INFO]: Client> [10:59:30] [Client thread/INFO]: Warning: Clientside chunk ticking took 222 ms
+[10:59:30 INFO]: Client> [10:59:30] [Client thread/INFO]: Warning: Clientside chunk ticking took 219 ms
+[10:59:30 INFO]: Client> [10:59:30] [Client thread/INFO]: Warning: Clientside chunk ticking took 224 ms
+[10:59:31 INFO]: Client> [10:59:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 221 ms
+[10:59:31 INFO]: Client> [10:59:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 225 ms
+[10:59:31 INFO]: Client> [10:59:31] [Client thread/INFO]: Warning: Clientside chunk ticking took 225 ms
+[10:59:32 INFO]: Client> [10:59:32] [Client thread/INFO]: Warning: Clientside chunk ticking took 222 ms
+[10:59:32 INFO]: Client> [10:59:32] [Client thread/INFO]: Warning: Clientside chunk ticking took 229 ms
+[10:59:32 INFO]: Client> [10:59:32] [Client thread/INFO]: Warning: Clientside chunk ticking took 197 ms
+[10:59:32 INFO]: Client> [10:59:32] [Client thread/INFO]: Warning: Clientside chunk ticking took 191 ms
+[11:00:12 INFO]: Client> [11:00:12] [Server thread/INFO]: Dilnut drowned
+[11:00:12 INFO]: Client> [11:00:12] [Client thread/INFO]: [CHAT] Dilnut drowned
+[11:00:18 INFO]: Client> [11:00:18] [pool-2-thread-2/ERROR]: Signature is missing from textures payload
+[11:00:24 INFO]: Client> [11:00:24] [Server thread/INFO]: <Dilnut> hi
+[11:00:24 INFO]: Client> [11:00:24] [Client thread/INFO]: [CHAT] <Dilnut> hi
+[11:00:28 INFO]: Client> [11:00:28] [Server thread/INFO]: <Dilnut> whats up
+[11:00:28 INFO]: Client> [11:00:28] [Client thread/INFO]: [CHAT] <Dilnut> whats up
+[11:00:30 INFO]: Client> [11:00:30] [Server thread/INFO]: <Dilnut> time
+[11:00:30 INFO]: Client> [11:00:30] [Client thread/INFO]: [CHAT] <Dilnut> time
+[11:00:41 INFO]: Client> [11:00:41] [Server thread/INFO]: <Dilnut> timeend
+[11:00:41 INFO]: Client> [11:00:41] [Client thread/INFO]: [CHAT] <Dilnut> timeend
+[11:00:59 INFO]: Client> [11:00:59] [Server thread/INFO]: <Dilnut> count 5 min 4 sec
+[11:00:59 INFO]: Client> [11:00:59] [Client thread/INFO]: [CHAT] <Dilnut> count 5 min 4 sec
+[11:01:11 INFO]: Client> [11:01:11] [Server thread/INFO]: Stopping server
+[11:01:11 INFO]: Client> [11:01:11] [Server thread/INFO]: Saving players
+[11:01:11 INFO]: Client> [11:01:11] [Server thread/INFO]: Saving worlds
+[11:01:11 INFO]: Client> [11:01:11] [Server thread/INFO]: Saving chunks for level 'New Worldaoeuaoeuaoeua'/Overworld
+[11:01:11 INFO]: Client> [11:01:11] [Server thread/INFO]: Saving chunks for level 'New Worldaoeuaoeuaoeua'/Nether
+[11:01:11 INFO]: Client> [11:01:11] [Server thread/INFO]: Saving chunks for level 'New Worldaoeuaoeuaoeua'/The End
+[11:01:14 INFO]: Client> [11:01:14] [Client thread/INFO]: Stopping!
+[11:01:14 INFO]: Client>
+[11:01:14 INFO]: Client> SoundSystem shutting down...
+[11:01:15 INFO]: Client> AL lib: (WW) FreeDevice: (0x7faf42322000) Deleting 9 Buffer(s)
+[11:01:15 INFO]: Client>     Author: Paul Lamb, www.paulscode.com
+[11:01:15 INFO]: Client>
+[11:01:15 INFO]: Game ended with no troubles detected (exit code 0)
+[11:01:15 INFO]: Following visibility rule and exiting launcher as the game has ended
+[11:01:15 INFO]: Deleting /Users/dallinosmun/Library/Application Support/minecraft/versions/14w26c/14w26c-natives-1403974664407125000
